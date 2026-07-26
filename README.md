@@ -2,10 +2,9 @@
 
 # 👋 Olá, eu sou o Horway!
 
-### 🎯 Em busca da primeira oportunidade na área de Tecnologia (Estágio / Júnior)
+### 🎓 Estudante de Informática | Entusiasta de Programação
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horway000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -13,32 +12,34 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 **Em Formação:** Desenvolvedor focado em aprender as melhores práticas de desenvolvimento de software.
-- 💻 **Ambiente de Trabalho:** Entusiasta de Linux & Terminal, utilizando Git para versionamento diário.
-- 🎯 **Objetivo:** Desenvolver projetos reais, aprimorar minha lógica de programação e evoluir para uma posição Júnior.
+- 🎓 **Em Formação:** Estudando **Python, HTML, CSS e JavaScript** no curso de informática.
+- 💻 **Ambiente de Trabalho:** Utilizo **Dual Boot (Ubuntu Linux & Windows 11)**, programando principalmente em **Python** no **VS Code**.
+- 🛠️ **Versionamento:** Aprendendo as melhores práticas com **Git e GitHub**.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### **Em Uso Diário & Aprendizado:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ---
 
 ### 📌 Projetos em Destaque
 
-> ⚙️ *Atualmente desenvolvendo meus primeiros projetos. Em breve estarei publicando os repositórios aqui!*
+> ⚙️ *Em breve publicarei meus primeiros projetos em Python e Web aqui!*
 
 ---
 
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=horway000&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horway000&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horway000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
